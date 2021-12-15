@@ -8,7 +8,7 @@
 - 📫 &nbsp; &nbsp; Also on Twitter: [Twitter](https://twitter.com/bijoudefre)
 - ⚡ &nbsp; &nbsp; I am currently a freelance graphic designer, come and discover my [portfolio](https://frederic-creuseveau-portfolio.netlify.app/)!
 
-<div align="center" style="display: flex, flex-direction: row, flex-wrap: wrap, justify-content: center, justify-content: space-evenly">
+<div align="center" >
     <div>
         <img style="height: 11em" src="https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true&count_private=false" alt="BijouDEFRE"/>
         <img style="height: 11em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact" alt="BijouDEFRE" />

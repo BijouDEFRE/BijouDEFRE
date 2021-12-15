@@ -9,8 +9,10 @@
 - ⚡ &nbsp; &nbsp; I am currently a freelance graphic designer, come and discover my [portfolio](https://frederic-creuseveau-portfolio.netlify.app/)!
 
 <div align="center">
-<img style="margin: 0.5em; height: 11em" src="https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true&count_private=false" alt="BijouDEFRE"/><br />
-<img style="margin: 0.5em; height: 11em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact" alt="BijouDEFRE" />
+    <div style="display: flex; justify-content: center">
+        <img style="margin: 0.5em; height: 11em" src="https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true&count_private=false" alt="BijouDEFRE"/>
+        <img style="margin: 0.5em; height: 11em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact" alt="BijouDEFRE" />
+    </div>
 </div>
 
 <!-- ![Frédéric Creuseveau's GitHub stats](https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true)

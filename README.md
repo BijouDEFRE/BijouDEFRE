@@ -6,7 +6,9 @@
 - 🌱 &nbsp; &nbsp; I’m currently learning ... GraphQL, Javascript...
 - 📫 &nbsp; &nbsp; How to reach me: fredericcreuseveau@gmail.com
 - 📫 &nbsp; &nbsp; Also on Twitter: [Twitter](https://twitter.com/bijoudefre)
-- ⚡ &nbsp; &nbsp; I am currently a freelance graphic designer, come and discover my [portfolio](https://frederic-creuseveau-portfolio.netlify.app/)!
+- ⚡ &nbsp; &nbsp; I am currently a freelance graphic designer, come and discover my [portfolio](https://frederic-creuseveau-portfolio.netlify.app/) &nbsp; &nbsp; 👀
+
+<hr/>
 
 <div align="center" >
     <div>

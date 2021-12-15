@@ -18,7 +18,7 @@
 
 <div align="center" style="margin: 2em">
 <a href="https://twitter.com/bijoudefre" target="blank">
-<img align="center" src="twitter.svg" alt="bijoudefre" height="30" width="30" />
+<img align="center" src="Twitter@72x.png" alt="bijoudefre" height="30" width="30" />
 </a>
 <a style="margin: 0.5em" href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
 <img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="30" width="30" />

@@ -22,10 +22,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
+    <img style="margin: 0.5em" src="./images/Space.svg" alt="" height="50" width="50" />
     <a href="https://twitter.com/bijoudefre" target="blank">
         <img style="margin: 0.5em" src="./images/Twitter.svg" alt="bijoudefre" height="50" width="50" />
     </a>
+    <img style="margin: 0.5em" src="./images/Space.svg" alt="" height="50" width="50" />
     <a href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
         <img style="margin: 0.5em" src="./images/Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
     </a>
+    <img style="margin: 0.5em" src="./images/Space.svg" alt="" height="50" width="50" />
 </p>

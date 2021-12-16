@@ -21,11 +21,11 @@
 <!-- ![Frédéric Creuseveau's GitHub stats](https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center">
-<a href="https://twitter.com/bijoudefre" target="blank">
-    <img style="margin: 0.5em" src="Twitter.svg" alt="bijoudefre" height="50" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
-    <img style="margin: 0.5em" src="Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
-</a>
-</div>
+<p align="center">
+    <a href="https://twitter.com/bijoudefre" target="blank">
+        <img style="margin: 0.5em" src="Twitter.svg" alt="bijoudefre" height="50" width="50" />
+    </a>
+    <a href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
+        <img style="margin: 0.5em" src="Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
+    </a>
+</p>

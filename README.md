@@ -10,7 +10,7 @@
 
 <hr/>
 
-<div align="center" >
+<div align="center">
     <div>
         <img style="margin: 0.2em; height: 11em" src="https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true&count_private=false" alt="BijouDEFRE"/>
         <img style="margin: 0.2em; height: 11em" src="Socials.svg" alt="logos">
@@ -21,9 +21,11 @@
 <!-- ![Frédéric Creuseveau's GitHub stats](https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- <p align="center">
-<a href="https://dev.to/mxschmitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mxschmitt" height="30" width="30" /></a>
-<a href="https://twitter.com/maxibanki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxibanki" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/max-schmitt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/max-schmitt/" height="30" width="30" /></a>
-<img align="center" src="https://komarev.com/ghpvc/?username=mxschmitt" alt="mxschmitt" />
-</p> -->
+<div align="center">
+<a href="https://twitter.com/bijoudefre" target="blank">
+    <img align="center" src="Twitter.svg" alt="bijoudefre" height="50" width="50" />
+</a>
+<a href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
+    <img align="center" src="Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
+</a>
+</div>

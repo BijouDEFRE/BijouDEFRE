@@ -23,9 +23,9 @@
 
 <div align="center">
 <a href="https://twitter.com/bijoudefre" target="blank">
-    <img align="center" src="Twitter.svg" alt="bijoudefre" height="50" width="50" />
+    <img style="margin: 0.5em" src="Twitter.svg" alt="bijoudefre" height="50" width="50" />
 </a>
 <a href="https://www.linkedin.com/in/frédéric-creuseveau/" target="blank">
-    <img align="center" src="Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
+    <img style="margin: 0.5em" src="Linkedin.svg" alt="https://www.linkedin.com/in/frédéric-creuseveau/" height="50" width="50" />
 </a>
 </div>

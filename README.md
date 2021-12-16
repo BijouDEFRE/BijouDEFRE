@@ -18,9 +18,6 @@
     </div>
 </div>
 
-<!-- ![Frédéric Creuseveau's GitHub stats](https://github-readme-stats.vercel.app/api?username=BijouDEFRE&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BijouDEFRE&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <p align="center">
     <img style="margin: 0.5em" src="./images/Space.svg" alt="" height="50" width="50" />
     <a href="https://twitter.com/bijoudefre" target="blank">
